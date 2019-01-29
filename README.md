@@ -4,7 +4,7 @@
 A useful collection of ARM templates that I intially (found tricky) to deploy
 
 ## Deployment 
-Easiest form is to use [Powershell]https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy) for the official documentation. 
+Easiest form is to use [Powershell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy) for the official documentation. 
 
 ``` powershell 
 Connect-AzAccount 
