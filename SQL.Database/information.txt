@@ -1,0 +1,8 @@
+Information regarding the template
+
+1) Resource name consists of both the SQL server name and database name 
+- Because this is a nested resource (that we are creating seperate outside of the parent) it requires the sql server name as well as the 
+
+2) No depends on
+- intially I added a depends on to the sql server but we cannot depend on anything we are not creating in this arm template. 
+
