@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+    "parameters": {
+        "databaseName": {
+            "value": "databasename"
+        },
+        "sqlServerName": {
+            "value": "sqlservername"
+        },
+        "location": {
+            "value": "location"
+        },
+        "sqlDbCollation": {
+            "value": "SQL_Latin1_General_CP1_CI_AS"
+        },
+        "sqlDbEdition": {
+            "value": "Basic"
+        },
+        "sqlDbRequestedServiceObjectiveName": {
+            "value": "Basic"
+        }
+    }
+}
