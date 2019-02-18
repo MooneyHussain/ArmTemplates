@@ -11,14 +11,14 @@
         "location": {
             "value": "location"
         },
-        "sqlDbCollation": {
+        "databaseCollation": {
             "value": "SQL_Latin1_General_CP1_CI_AS"
         },
-        "sqlDbEdition": {
-            "value": "Basic"
+        "databaseTier": {
+            "value": "Standard"
         },
-        "sqlDbRequestedServiceObjectiveName": {
-            "value": "Basic"
+        "databaseTierSize": {
+            "value": "S3"
         }
     }
 }
